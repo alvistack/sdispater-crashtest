@@ -1,0 +1,4 @@
+python3-crashtest: copyright-without-copyright-notice
+python3-crashtest: initial-upload-closes-no-bugs
+python3-crashtest: no-manual-page
+python3-crashtest: zero-byte-file-in-doc-directory
