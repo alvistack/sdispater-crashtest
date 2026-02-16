@@ -24,4 +24,5 @@ test.py
 /test
 .pytest_cache
 pip-wheel-metadata
-setup.py
+
+.pybuild

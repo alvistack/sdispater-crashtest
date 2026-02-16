@@ -1,0 +1,5 @@
+python-crashtest source: file-without-copyright-information
+python-crashtest source: no-debian-changes
+python-crashtest source: source-contains-prebuilt-windows-binary
+python-crashtest source: source-is-missing
+python-crashtest source: source-package-encodes-python-version
